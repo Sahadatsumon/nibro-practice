@@ -1,0 +1,29 @@
+/*common start*/
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #8e8e8e;
+}
+/*common end*/
+/*header start*/
+header{
+    
+}
+.c_nav{
+    background-color:#ffffff;
+}
+
+.c_h{
+    padding-right: 16px;
+}
+.c_d{
+    padding-left: 16px;
+}
+.logo{
+    font-size: 30px;
+}
+.menu{}
+.menu ul li a {}
+.menu ul li a:hover{}
+/*header end*/
